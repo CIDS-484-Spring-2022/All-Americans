@@ -4,6 +4,7 @@ The purpose of this project is to find out what high school track and field athl
 # Software
 It will be coded in R to help do statistical analyze as well with helping visual the data.
 # Current Progress
-Currently I am two to three years left to find data on the All-Americans, I have finished 2021, 2019, 2018, and currently on 2017. I will also have 2016, 2015, and the heptathlon/decathlon to complete. Watch the video below to learn more about the progress of the data set or to see the file of the data, look for it above. Currently there is no code, as the data set is not yet completed or organized to be used in R.
-# 5-minute Video
-https://mediaspace.wisconsin.edu/media/Kaltura+Capture+recording+-+February+11th+2022%2C+11A52A03+am/1_da11wkqr
+Currently I have finished collecting the data for the three datasets, All-American, Decathlon, and Heptathlon, and formatted correctly in be used in R. I have started coding with these datasets and looked into the states all of the All-Americans are from. I was looking into analyzing the high school times by event before I stopped to finish the rough draft for the paper. 
+# 5-minute Videos
+First video: https://mediaspace.wisconsin.edu/media/Kaltura+Capture+recording+-+February+11th+2022%2C+11A52A03+am/1_da11wkqr
+Second Video: 
