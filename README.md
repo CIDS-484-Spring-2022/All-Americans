@@ -5,6 +5,8 @@ The purpose of this project is to find out what high school track and field athl
 It will be coded in R to help do statistical analyze as well with helping visual the data.
 # Current Progress
 Currently I have finished collecting the data for the three datasets, All-American, Decathlon, and Heptathlon, and formatted correctly in be used in R. I have started coding with these datasets and looked into the states all of the All-Americans are from. I was looking into analyzing the high school times by event before I stopped to finish the rough draft for the paper. 
+# Publishing Journal
+Big Data, IEEE is the publishing journal used for this project.
 # 5-minute Videos
 First video: https://mediaspace.wisconsin.edu/media/Kaltura+Capture+recording+-+February+11th+2022%2C+11A52A03+am/1_da11wkqr
 
