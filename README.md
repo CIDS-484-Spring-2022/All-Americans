@@ -12,4 +12,4 @@ First video: https://mediaspace.wisconsin.edu/media/Kaltura+Capture+recording+-+
 
 Second Video: https://mediaspace.wisconsin.edu/media/Kaltura+Capture+recording+-+March+10th+2022%2C+4A20A51+pm/1_n8gtwvq6
 
-Third Video: 
+Third Video: https://mediaspace.wisconsin.edu/media/1_dobi4qo1?
